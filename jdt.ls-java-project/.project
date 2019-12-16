@@ -20,5 +20,10 @@
 			<type>1</type>
 			<location>//home/runner/Main.java</location>
 		</link>
+		<link>
+			<name>src/ReverseNumber.java</name>
+			<type>1</type>
+			<location>//home/runner/src/ReverseNumber.java</location>
+		</link>
 	</linkedResources>
 </projectDescription>
